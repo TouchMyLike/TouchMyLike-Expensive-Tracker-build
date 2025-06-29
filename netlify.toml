@@ -1,9 +1,6 @@
 [build]
  public = ".next"
 
-[[plugins]]
- package = "@netlify/plugin-nextjs"
-
 [[redirects]]
     from = "/*"
     to = "/index.html"
