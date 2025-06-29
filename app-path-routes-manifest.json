@@ -1,0 +1,13 @@
+{
+  "/favicon.ico/route": "/favicon.ico",
+  "/_not-found/page": "/_not-found",
+  "/page": "/",
+  "/[locale]/analytics/page": "/[locale]/analytics",
+  "/[locale]/dashboard/page": "/[locale]/dashboard",
+  "/[locale]/login/page": "/[locale]/login",
+  "/[locale]/categories/page": "/[locale]/categories",
+  "/[locale]/expenses/page": "/[locale]/expenses",
+  "/[locale]/settings/page": "/[locale]/settings",
+  "/[locale]/page": "/[locale]",
+  "/[locale]/budget/page": "/[locale]/budget"
+}
