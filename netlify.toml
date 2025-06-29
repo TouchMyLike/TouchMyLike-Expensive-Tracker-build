@@ -1,5 +1,5 @@
 [build]
- public = "./"
+ public = ".next"
 
 [[plugins]]
  package = "@netlify/plugin-nextjs"
